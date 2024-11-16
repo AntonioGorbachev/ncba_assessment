@@ -88,7 +88,7 @@ const LoginWithLeftBackground = () => {
           placement: "bottom right",
           render: ({ id }) => {
             return (
-              <Toast nativeID={id} variant="accent" action="success">
+              <Toast nativeID={id} variant="solid" action="success">
                 <ToastTitle>Logged in successfully!</ToastTitle>
               </Toast>
             );
