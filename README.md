@@ -9,7 +9,7 @@
   ```
   yarn
   ```
-- Styling and Components : [gluestack](https://gluestack.io/)
+- Start server
   ```
   yarn start
   ``` 
