@@ -6,10 +6,10 @@
 
 ### Usage
 - Install dependencies
-  ``
+  ```
   yarn
-  ``
+  ```
 - Styling and Components : [gluestack](https://gluestack.io/)
-  ``
+  ```
   yarn start
-  ``  
+  ``` 
